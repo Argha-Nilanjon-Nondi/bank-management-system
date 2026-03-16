@@ -2,6 +2,8 @@
 
 A Java-based console application for managing bank accounts, users, and transactions using SQLite. This project demonstrates JDBC integration, user authentication, and basic financial operations.
 
+#### Video Demo https://youtu.be/UoemUnGxlD4
+
 ## Key Features
 
 - **User Authentication**: Secure login with username and password.
