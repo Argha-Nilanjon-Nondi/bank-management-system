@@ -3,6 +3,17 @@ package Bank;
 import java.util.Scanner;
 
 /**
+The core application logic, database schema design, and architectural structure were developed by
+the human developer (Argha Nilanjon Nondi).
+
+Antigravity (AI Coding Assistant) assisted in:
+- Structuring and fulfilling the initial documentation.
+- Adding comprehensive Javadoc and explanatory comments for future maintainability.
+- Prettifying the console UI with banners and formatted output to enhance the user experience.
+
+**/
+
+/**
  * Provides the console-based User Interface for the Bank application.
  * Handles user login (both Admin and regular User), profile viewing,
  * transaction history, and the money transfer wizard.
