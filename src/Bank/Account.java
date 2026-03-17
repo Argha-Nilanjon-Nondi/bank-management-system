@@ -3,6 +3,17 @@ package Bank;
 import java.sql.*;
 
 /**
+The core application logic, database schema design, and architectural structure were developed by
+the human developer (Argha Nilanjon Nondi).
+
+Antigravity (AI Coding Assistant) assisted in:
+- Structuring and fulfilling the initial documentation.
+- Adding comprehensive Javadoc and explanatory comments for future maintainability.
+- Prettifying the console UI with banners and formatted output to enhance the user experience.
+
+**/
+
+/**
  * Handles bank account operations, including account creation,
  * balance inquiries, money transfers, and transaction history.
  * Interaction is primarily performed against the 'account' and 'tx_log'

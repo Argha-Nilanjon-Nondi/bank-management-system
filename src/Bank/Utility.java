@@ -5,6 +5,17 @@ import java.sql.*;
 import java.util.UUID;
 
 /**
+The core application logic, database schema design, and architectural structure were developed by
+the human developer (Argha Nilanjon Nondi).
+
+Antigravity (AI Coding Assistant) assisted in:
+- Structuring and fulfilling the initial documentation.
+- Adding comprehensive Javadoc and explanatory comments for future maintainability.
+- Prettifying the console UI with banners and formatted output to enhance the user experience.
+
+**/
+
+/**
  * Utility class providing helper methods for unique ID generation,
  * random alphanumeric strings, and bank account numbers.
  * These methods are used throughout the Bank application for
